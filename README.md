@@ -46,7 +46,7 @@
     
 ### - Python
     
-[![Python](https://img.shields.io/badge/-Python-%232c3e50?style=flat-square&logo=python)](https://python.org)
+[![Python](https://img.shields.io/badge/-Python-%232c3e50?style=flat-circle&logo=python)](https://python.org)
 
 ### - Blogs 🌱
 
