@@ -1,4 +1,5 @@
-### Hello World 🎊, I'm [Deepjit!](https://t.me/kirito6969) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
+
+### Hello World 🎊, I'm [Deepjit!](https://t.me/deepaiims) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
 
 <p align="left">
 <a href="https://www.instagram.com/deepjit_9862/">
