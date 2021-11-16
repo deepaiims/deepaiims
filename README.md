@@ -47,8 +47,8 @@
 
  <p align="left">
  <a href="https://www.python.org">
-    <img src="https://raw.githubusercontent.com/deepaiims/deepaiims/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:6px 4px">
-  </a>
+  <img src="https://raw.githubusercontent.com/deepaiims/deepaiims/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:6px 4px">
+</a>
 </p>
 
 ### - Blogs 🌱
