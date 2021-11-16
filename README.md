@@ -18,7 +18,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=deepaiims)
 <br />
 
-[![Gmail Badge](https://img.shields.io/badge/-deepjitkolkata@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deepjitkolkata@gmail.com)
+![Gmail Badge](https://img.shields.io/badge/-deepjitkolkata@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deepjitkolkata@gmail.com)
 
 <div align="center">
 <img src='https://media.giphy.com/media/qWAvh9GmlryEg/giphy.gif' alt="Welcome Nekos!"/>
