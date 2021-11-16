@@ -34,23 +34,17 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **I am a Weeb also 🌚**
 
-**Anime, Hentai Lover ❣️, Addicted to Lolis - No FBI plox :(  I LOVE CAAAATS 🐈 & Neko Girls 🤭**
+**Anime, Hentai Lover ❣️, Addicted to Lolis - No FBI plox :(  I LOVE CATS 🐈 & INDIA 🤭**
 <br />
 
 
-![CatBoi's Github Stats](https://github-readme-stats.vercel.app/api?username=deepaiims&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Catboy's Github Stats](https://github-readme-stats.vercel.app/api?username=deepaiims&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 *************
 <p align="center">
   <i>A good code is like a story, not a puzzle.</i><br/>
 </p> 
 
-### - Python Noob
 
-<p align="left">
- <a href="https://www.python.org">
-    <img src="https://raw.githubusercontent.com/deepaiims/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:6px 4px">
-  </a>
-</p
 
 ### - Blogs 🌱
 
