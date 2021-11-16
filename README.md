@@ -38,7 +38,7 @@
 <br />
 
 
-![Catboy's Github Stats](https://github-readme-stats.vercel.app/api?username=deepaiims&show_icons=true&theme=cobalt&count_private=true)](https://github.com/deepaiims)
+[![Catboy's Github Stats](https://github-readme-stats.vercel.app/api?username=deepaiims&show_icons=true&theme=cobalt&count_private=true)](https://github.com/deepaiims)
 
 *************
 <p align="center">
