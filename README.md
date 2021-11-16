@@ -34,7 +34,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **I am a Weeb also 🌚**
 
-**Anime, Hentai Lover ❣️, Addicted to Lolis - No FBI plox :(  I LOVE CATS 🐈 & INDIA 🤭**
+**Medico, Like Nobles and Mathematics  :(  I LOVE CATS 🐈 & INDIA 🤭**
 <br />
 
 
