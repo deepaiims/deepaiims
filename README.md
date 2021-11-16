@@ -27,7 +27,6 @@
 ### I'm an ordinary Geek from India :)
 
 
-#### - 💬 Connect? Here 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/alam1999ddk/)
 
 <br />
 
@@ -38,7 +37,7 @@
 <br />
 
 
-![CatBoi's Github Stats](https://github-readme-stats.vercel.app/api?username=prono69&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![CatBoi's Github Stats](https://github-readme-stats.vercel.app/api?username=deepaiims&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 *************
 <p align="center">
   <i>A good code is like a story, not a puzzle.</i><br/>
@@ -48,17 +47,13 @@
 
 <p align="left">
  <a href="https://www.python.org">
-    <img src="https://raw.githubusercontent.com/prono69/prono69/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/prono69/deepaiims/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:6px 4px">
   </a>
 </p>
 
 ### - Blogs 🌱
 
-<p>
-<a href="https://alamtd.wordpress.com">
- <img align="left" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/blogs/wordpress.svg" alt="AlamTD"/>
-</a>
-</p>
+
 
 
 
@@ -69,6 +64,6 @@
 #### Thank You-🙏🏼
 
 
-> Shahnawaz Alam
+> Deepjit Das
 
-⭐ From [Shahnawaz](https://github.com/prono69)
+⭐ From [Deepjit](https://github.com/deepaiims)
