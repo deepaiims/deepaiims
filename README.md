@@ -1,24 +1,74 @@
-### Hi there 👋
+### Hello World 🎊, I'm [Deepjit!](https://t.me/kirito6969) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdeepaiims&count_bg=%231EE510&title_bg=%23555555&icon=&icon_color=%23931414&title=account+views&edge_flat=false)](https://hits.seeyoufarm.com)
+<p align="left">
+<a href="https://www.instagram.com/deepjit_9862/">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
+  </a>
+</p>
 
-[![deepaiims's github stats](https://github-readme-stats.vercel.app/api?username=deepaiims&show_icons=true&theme=cobalt&count_private=true)](https://github.com/deepaiims)
+</a>
+<a href="https://t.me/deepaiims">
+  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.instagram.com/deepjit_9862/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepaiims&layout=compact&theme=cobalt)](https://github.com/deepaiims), 
+
+![](https://visitor-badge.glitch.me/badge?page_id=deepaiims)
+<br />
+
+[![Gmail Badge](https://img.shields.io/badge/-deepjitkolkata@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:faltu9851@gmail.com)
+
+<div align="center">
+<img src='https://media.giphy.com/media/qWAvh9GmlryEg/giphy.gif' alt="Welcome Nekos!"/>
+</div>
+
+### Hi 🙋‍♂️,
+### I'm an ordinary Geek from India :)
 
 
-<!--
+#### - 💬 Connect? Here 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/alam1999ddk/)
 
-**deepaiims/deepaiims** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **I am a Weeb also 🌚**
+
+**Anime, Hentai Lover ❣️, Addicted to Lolis - No FBI plox :(  I LOVE CAAAATS 🐈 & Neko Girls 🤭**
+<br />
+
+
+![CatBoi's Github Stats](https://github-readme-stats.vercel.app/api?username=prono69&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+*************
+<p align="center">
+  <i>A good code is like a story, not a puzzle.</i><br/>
+</p> 
+
+### - Python Noob
+
+<p align="left">
+ <a href="https://www.python.org">
+    <img src="https://raw.githubusercontent.com/prono69/prono69/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:6px 4px">
+  </a>
+</p>
+
+### - Blogs 🌱
+
+<p>
+<a href="https://alamtd.wordpress.com">
+ <img align="left" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/blogs/wordpress.svg" alt="AlamTD"/>
+</a>
+</p>
+
+
+
+![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
+
+***********************************
+
+#### Thank You-🙏🏼
+
+
+> Shahnawaz Alam
+
+⭐ From [Shahnawaz](https://github.com/prono69)
