@@ -38,7 +38,7 @@
 <br />
 
 
-[![Catboy's Github Stats](https://github-readme-stats.vercel.app/api?username=deepaiims&show_icons=true&theme=cobalt&count_private=true)](https://github.com/deepaiims)
+[![Catboy's Github Stats](https://github-readme-stats.vercel.app/api?username=deepaiims&show_icons=true&theme=synthwave&count_private=true)](https://github.com/deepaiims)
     
     
 ![Catboy's GitHub Graph](https://activity-graph.herokuapp.com/graph?username=deepaiims&custom_title=My%20Graph&bg_color=241731&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea)
