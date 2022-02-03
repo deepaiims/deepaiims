@@ -67,4 +67,4 @@
 
 > Sakshi
 
-⭐ From [Deepjit](https://github.com/deepaiims)
+⭐ From [Sakshi](https://github.com/deepaiims)
