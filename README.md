@@ -21,7 +21,7 @@
 ![Gmail Badge](https://img.shields.io/badge/-deepjitkolkata@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deepjitkolkata@gmail.com)
 
 <div align="center">
-<img src='https://giphy.com/gifs/spotify-spotifykpop-spotifyxblackpink-blackpinkonspotify-HRFIrUfUjqOfn9trLh' alt="Welcome Nekos!"/>
+<img src='https://media.giphy.com/media/HRFIrUfUjqOfn9trLh/giphy.gif' alt="Welcome Nekos!"/>
 </div>
 
 ### Hi 🙋‍♂️,
