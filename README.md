@@ -1,19 +1,4 @@
 
-### Hello World 🎊, I'm [Sakshi](https://t.me/sakku_cute) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
-
-<p align="left">
-<a href="https://www.instagram.com/deepjit_9862/">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
-  </a>
-</p>
-
-</a>
-<a href="https://t.me/sakku_cute">
-  <img align="left" alt="Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
-</a>
-<a href="https://www.instagram.com/deepjit_9862/">
-  <img align="left" alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=A+Passionate+Developer+From+India%E2%9C%8C%EF%B8%8F;Python%2C+Java%2C+Linux%E2%9D%A4%EF%B8%8F">
