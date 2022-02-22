@@ -22,9 +22,9 @@
 <br>
   
 ----
-![GitHub followers](https://img.shields.io/github/followers/LEGEND-OS?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/deepaiims?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=deepaiims.deepaiims)
-[![Profile views](https://komarev.com/ghpvc/?username=LEGEND-OS&label=Profile%20views)](https://github.com/deepaiims)
+[![Profile views](https://komarev.com/ghpvc/?username=deepaiims&label=Profile%20views)](https://github.com/deepaiims)
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=deepaiims)
   
 <a href="https://github-readme-stats.vercel.app/api?username=LEGEND-OS&layout=compact&show_icons=true&theme=chartreuse-dark&cache_seconds=1800">
