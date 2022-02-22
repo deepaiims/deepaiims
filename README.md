@@ -2,12 +2,15 @@
    <h1>Hello World, I'm <a href="https://thealam.tk">Sakshi</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
    
-   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
+   <img src="https://pronoun.cyou/x/y?subject=She&object=Her&height=20"> 
 </div>
 
 <p align='center'>
-   <a href="https://www.instagram.com/deepjit_9862/"><img height="30" src="https://raw.githubusercontent.com/deepaiims/deepaiims/master/png/instagram.png?raw=true</a>&nbsp;&nbsp;
-<a href="https://t.me/sakshi_cute"><img height="30" src="https://raw.githubusercontent.com/deepaiims/deepaiims/master/png/telegram.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://www.instagram.com/deepjit_9862/"><img height="30" src="https://raw.githubusercontent.com/prono69/prono69/master/png/instagram.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/alam1999ddk"><img height="30" src="https://raw.githubusercontent.com/prono69/prono69/master/png/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://telegram.dog/sakshi_cute"><img height="30" src="https://raw.githubusercontent.com/prono69/prono69/master/png/telegram.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/hope.matrix"><img height="30" src="https://raw.githubusercontent.com/prono69/prono69/master/png/spotify.png?raw=true"></a>&nbsp;&nbsp;
+ <a href="https://www.buymeacoffee.com/thealam"><img height="30" src="https://raw.githubusercontent.com/prono69/prono69/master/png/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
  </p>
 
 <p align="center">
