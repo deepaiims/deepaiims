@@ -7,8 +7,8 @@
 
 <p align='center'>
    <a href="https://www.instagram.com/deepjit_9862/"><img height="30" src="https://raw.githubusercontent.com/deepaiims/deepaiims/master/png/instagram.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://telegram.dog/sakshi_cute"><img height="30" src="https://raw.githubusercontent.com/deepaiims/deepaiims/master/png/telegram.png?raw=true"></a>&nbsp;&nbsp;
-</p>
+   <a href="https://telegram.dog/sakshi_cute"><img height="30" src="https://raw.githubusercontent.com/deepaiims/deepaiims/master/png/telegram.png?raw=true"></a>&nbsp;&nbsp;
+   </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=A+Passionate+Developer+From+India%E2%9C%8C%EF%B8%8F;Python%2C+Java%2C+Linux%E2%9D%A4%EF%B8%8F">
