@@ -55,10 +55,6 @@
 </details>
 
 
-<div align="center">
-<img src='https://media.giphy.com/media/HRFIrUfUjqOfn9trLh/giphy.gif' alt="Welcome Nekos!"/>
-</div>
-
 ### Hi 🙋‍♂️,
 ### I'm an ordinary Geek from India :)
 
