@@ -22,6 +22,20 @@
 
 
 <h2 align="center"><b> ⠐Personal Information ⠐ </b></h2>
+    
+### Hi 🙋‍♂️,
+### I'm an ordinary Geek from India :)
+
+
+
+<br />
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **I am a Weeb also 🌚**
+
+**Medico, Like Nobles and Mathematics  :(  I LOVE CATS 🐈 & INDIA 🤭**
+<br />
+
 
 
 <p align="center">
@@ -55,18 +69,6 @@
 </details>
 
 
-### Hi 🙋‍♂️,
-### I'm an ordinary Geek from India :)
-
-
-
-<br />
-
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **I am a Weeb also 🌚**
-
-**Medico, Like Nobles and Mathematics  :(  I LOVE CATS 🐈 & INDIA 🤭**
-<br />
 
 
 [![Catboy's Github Stats](https://github-readme-stats.vercel.app/api?username=deepaiims&show_icons=true&theme=synthwave&count_private=true)](https://github.com/deepaiims)
