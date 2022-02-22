@@ -1,6 +1,39 @@
 
 ### Hello World 🎊, I'm [Sakshi](https://t.me/sakku_cute) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
 
+<h2 align="center"><b> ⠐Personal Information ⠐ </b></h2>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=A+Passionate+Developer+From+India%E2%9C%8C%EF%B8%8F;Python%2C+Java%2C+Linux%E2%9D%A4%EF%B8%8F">
+</p> 
+<br>
+
+- Name = "Sakshi Sharma"
+
+- Class = "College"
+
+- Country = "INDIA"
+
+<details>
+<summary>⠂𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜⠂</summary>
+<h2 align="center"><b>⠂𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜⠐
+<br>
+<br>
+  
+----
+![GitHub followers](https://img.shields.io/github/followers/LEGEND-OS?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=deepaiims.deepaiims)
+[![Profile views](https://komarev.com/ghpvc/?username=LEGEND-OS&label=Profile%20views)](https://github.com/deepaiims)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=deepaiims)
+  
+<a href="https://github-readme-stats.vercel.app/api?username=LEGEND-OS&layout=compact&show_icons=true&theme=chartreuse-dark&cache_seconds=1800">
+    <img width="60%" align="center" alt="𝙼𝚢 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜" src="https://github-readme-stats.vercel.app/api?username=deepaiims&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=86400" />
+
+</a>
+</b></h2>  
+</details>
+
 <p align="left">
 <a href="https://www.instagram.com/deepjit_9862/">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
