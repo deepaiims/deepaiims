@@ -19,7 +19,7 @@
 
 - Class = "College"
 
-- Country = "INDIA"
+- Country = "🇮🇳"
 
 <details>
 <summary>⠂𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜⠂</summary>
