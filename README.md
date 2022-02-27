@@ -17,7 +17,7 @@
 
 - Name = "Sakshi Sharma"
 
-- Class = "College"
+- Class = "xii"
 
 - Country = "🇮🇳"
 
