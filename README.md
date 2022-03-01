@@ -30,7 +30,7 @@
 ----
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=deepaiims)
   
-<a href="https://github-readme-stats.vercel.app/api?username=LEGEND-OS&layout=compact&show_icons=true&theme=chartreuse-dark&cache_seconds=1800">
+<a href="https://github-readme-stats.vercel.app/api?username=deepaiims&layout=compact&show_icons=true&theme=chartreuse-dark&cache_seconds=1800">
     <img width="60%" align="center" alt="𝙼𝚢 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜" src="https://github-readme-stats.vercel.app/api?username=deepaiims&show_icons=true&include_all_commits=true&theme=synthwave&cache_seconds=86400" />
 
 </a>
