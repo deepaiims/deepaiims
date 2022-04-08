@@ -7,7 +7,7 @@
 
 <p align='center'>
    <a href="https://www.instagram.com/deepjit_9862/"><img height="30" src="https://raw.githubusercontent.com/deepaiims/deepaiims/master/png/instagram.png?raw=true"</a>&nbsp;&nbsp;
-<a href="https://telegram.dog/sakku_cute"><img height="30" src="https://raw.githubusercontent.com/deepaiims/deepaiims/master/png/telegram.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://telegram.dog/sakku_cute"><img height="30" src="https://raw.githubusercontent.com/deepaiims/deepaiims/master/png/Telegram-logo.png?raw=true"></a>&nbsp;&nbsp;
  </p>
 
 <p align="center">
