@@ -14,6 +14,7 @@
 <p align="center">
    <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=F510&lines=A+Passionate+Developer+From+India%E2%9C%8C%EF%B8%8F;Python%2C+Java%2C+CSS%2C+Ruby%2C+HTML%2C+Linux%E2%9D%A4%EF%B8%8F">
 </p> 
+<br>
 
 
 ➢ 𝐍𝐚𝐦𝐞 = "𝐒𝐚𝐤𝐬𝐡𝐢 𝐒𝐡𝐚𝐫𝐦𝐚"
