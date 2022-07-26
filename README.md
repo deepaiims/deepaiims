@@ -11,7 +11,7 @@
  </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=A+Passionate+Developer+From+India%E2%9C%8C%EF%B8%8F;Python%2C+Java%2C+CSS%2C+C++%2C+HTML%2C+Linux%E2%9D%A4%EF%B8%8F">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=F510&lines=A+Passionate+Developer+From+India%E2%9C%8C%EF%B8%8F;Python%2C+Java%2C+CSS%2C+Ruby%2C+HTML%2C+Linux%E2%9D%A4%EF%B8%8F">
 </p> 
 <br>
 
@@ -59,7 +59,7 @@
 <br>
 <br>
    
-![Sakshi's's GitHub Graph](https://activity-graph.herokuapp.com/graph?username=deepaiims&custom_title=My%20Graph&bg_color=241731&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea)
+![Sakshi's GitHub Graph](https://activity-graph.herokuapp.com/graph?username=deepaiims&custom_title=My%20Graph&bg_color=241731&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea)
 </a>
 </b></h2>  
 </details>
